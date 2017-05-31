@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1478379527 source:c:\users\£ukasz\desktop\£ukasz\programowanie\c++\winapi\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+
+1478341097 source:c:\users\£ukasz\desktop\£ukasz\programowanie\c++\winapi\button.cpp
+	"button.h"
+
+1478341097 c:\users\£ukasz\desktop\£ukasz\programowanie\c++\winapi\button.h
+	<windows.h>
+
+1478534122 source:c:\users\£ukasz\desktop\£ukasz\programowanie\c++\winapi nie dzia³a obiektoey\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	"COM.h"
+
+1478435841 source:c:\users\£ukasz\desktop\£ukasz\programowanie\c++\winapi nie dzia³a obiektoey\com.cpp
+	"COM.h"
+
+1478446286 c:\users\£ukasz\desktop\£ukasz\programowanie\c++\winapi nie dzia³a obiektoey\com.h
+	<windows.h>
+	<string>
+
+1478684707 source:c:\users\£ukasz\desktop\£ukasz\programowanie\c++\winapi dzia³a obiektowy\com.cpp
+	"COM.h"
+
+1478685070 c:\users\£ukasz\desktop\£ukasz\programowanie\c++\winapi dzia³a obiektowy\com.h
+	<windows.h>
+	<string>
+
+1481234685 source:c:\users\£ukasz\desktop\£ukasz\programowanie\c++\winapi dzia³a obiektowy\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	"COM.h"
+	"Button.h"
+	"Edit.h"
+	"Description.h"
+
+1478685327 c:\users\£ukasz\desktop\£ukasz\programowanie\c++\winapi dzia³a obiektowy\button.h
+	<windows.h>
+
+1478685134 source:c:\users\£ukasz\desktop\£ukasz\programowanie\c++\winapi dzia³a obiektowy\button.cpp
+	"Button.h"
+
+1478604866 source:c:\users\£ukasz\desktop\£ukasz\programowanie\c++\winapi dzia³a obiektowy\edit.cpp
+	"Edit.h"
+
+1478604866 c:\users\£ukasz\desktop\£ukasz\programowanie\c++\winapi dzia³a obiektowy\edit.h
+	"Button.h"
+
+1480708071 c:\users\£ukasz\desktop\£ukasz\programowanie\c++\winapi dzia³a obiektowy\description.h
+	"Button.h"
+
+1480709101 source:c:\users\£ukasz\desktop\£ukasz\programowanie\c++\winapi dzia³a obiektowy\description.cpp
+	"Description.h"
+
